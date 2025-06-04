@@ -1,0 +1,68 @@
+body {
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    padding: 40px 20px;
+    text-align: center;
+    font-family: arial, sans-serif;
+
+    .link {
+        font-size: 30px;
+        text-align: left;
+        background-color: blue;
+        padding: 15px 35px 15px 35px;
+        color: white;
+    }
+
+    .more {
+        font-size: 20px;
+        background-color: orange;
+        padding: 15px 35px 15px 35px;
+        color: white;
+    }
+
+    .logo { 
+        width: 300px;
+        height: 250px;
+    }
+
+    .head {
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .info {            
+        font-size: 20px;
+        text-align: center;
+        line-height: 30px;
+        margin-bottom: 50px;
+    }
+
+    .mores {
+        text-align: center;
+        margin-bottom: 75px;
+    }
+
+    .logos {
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .end {
+        font-size: 35px;
+        text-align: center;
+        line-height: 40px;
+        margin-bottom: 50px;
+    }
+
+    .choice {
+        font-size: 40px;
+        text-align: center;
+        margin-top: 50px
+    }
+
+    .links {
+        display: flex;
+        justify-content: left;
+        margin-bottom: 75px;
+    }
+}
